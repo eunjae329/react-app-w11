@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-app-w11/static/css/main.c0e2d5c9.css",
+    "main.js": "/react-app-w11/static/js/main.319de981.js",
+    "static/js/787.a4b45000.chunk.js": "/react-app-w11/static/js/787.a4b45000.chunk.js",
+    "static/media/metaScore.png": "/react-app-w11/static/media/metaScore.365b8811a714a1f10a35.png",
+    "static/media/popup_store.jpg": "/react-app-w11/static/media/popup_store.260f0d55443ec9dee864.jpg",
+    "static/media/zelda_Title.png": "/react-app-w11/static/media/zelda_Title.6948d4c3547d2e8c3dcb.png",
+    "static/media/LinkGood.png": "/react-app-w11/static/media/LinkGood.6d85e6992b214eea530f.png",
+    "static/media/mainCharacters.jpg": "/react-app-w11/static/media/mainCharacters.8072a122df804a339703.jpg",
+    "index.html": "/react-app-w11/index.html",
+    "main.c0e2d5c9.css.map": "/react-app-w11/static/css/main.c0e2d5c9.css.map",
+    "main.319de981.js.map": "/react-app-w11/static/js/main.319de981.js.map",
+    "787.a4b45000.chunk.js.map": "/react-app-w11/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e2d5c9.css",
+    "static/js/main.319de981.js"
+  ]
+}
